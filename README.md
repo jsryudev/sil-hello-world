@@ -10,7 +10,7 @@ inspired by [dfellis's llvm-hello-world](https://github.com/dfellis/llvm-hello-w
 ## How To
 
 ```sh
-$ swiftc -emit-sil main.swift > main.sli
+$ swiftc -emit-sil main.swift > main.sil
 ```
 
 ## Result
