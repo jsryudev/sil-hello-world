@@ -150,7 +150,4 @@ bb0(%0 : $*Array<Element>):
 
 // Mappings from '#fileID' to '#filePath':
 //   'main/main.swift' => 'main.swift'
-
-
-
 ```
