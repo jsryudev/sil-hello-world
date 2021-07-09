@@ -23,7 +23,7 @@ func main() {
 }
 ```
 
-### `main.sli`
+### `main.sil`
 
 ```
 sil_stage canonical
